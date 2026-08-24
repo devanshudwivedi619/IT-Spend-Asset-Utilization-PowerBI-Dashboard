@@ -111,9 +111,10 @@ The dataset has 300 records of IT assets and software licenses, with these field
 
 ## 📂 How to View This Project
 
-1. Download `https://github.com/devanshudwivedi619/IT-Spend-Asset-Utilization-PowerBI-Dashboard/blob/main/It%20Spend%20%26%20Asset%20Utilization%20Analytics%20Dashboard%20Project.pbix` from this repository.
-2. Open it in Power BI Desktop (free to download from Microsoft).
-3. If you don't have Power BI installed, just scroll up — all charts are shown as images above.
+1. Download It Spend & Asset Utilization Analytics Dashboard Project.pbix
+    from this repository.
+3. Open it in Power BI Desktop (free to download from Microsoft).
+4. If you don't have Power BI installed, just scroll up — all charts are shown as images above.
 
 ---
 
